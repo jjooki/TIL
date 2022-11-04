@@ -19,6 +19,8 @@ Today I learned about ML and DeepLearning!
 2. Unsupervised Learning
 3. Reinforcement Learning
 
+* * *
+
 ### Classification Models
 
 #### 1. Linear Classifier
@@ -27,8 +29,12 @@ Today I learned about ML and DeepLearning!
 #### 4. Random Forest
 #### 5. Gradient Boosing Models(XGBoost, LightGBM, CatBoost)
 
+* * *
+
 ### Regression Models
 
 #### 1. Linear Regressor
 #### 2. Random Forest
 #### 3. Gradient Boosting Models(XGBoost, LightGBM, CatBoost)
+  
+* * *
